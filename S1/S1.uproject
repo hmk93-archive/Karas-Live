@@ -354,6 +354,10 @@
 		{
 			"Name": "TPSCore",
 			"Enabled": true
+		},
+		{
+			"Name": "MetaHumanCharacter",
+			"Enabled": true
 		}
 	],
 	"EpicSampleNameHash": "451731683"
