@@ -73,3 +73,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Karas Additional Option
+*.pdb
+*.log
+*.bin
+*.uasset
